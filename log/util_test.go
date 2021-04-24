@@ -1,4 +1,4 @@
-package detectutil
+package util
 
 import (
 	"testing"
